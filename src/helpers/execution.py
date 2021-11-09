@@ -47,11 +47,6 @@ def spam_click_until_image_found(img_path: str):
         spam_click()
 
 
-def spam_click_until_image_gone(img_path: str):
-    while locate(img_path):
-        spam_click()
-
-
 def wait_until_image_found(image_path: str):
     while not locate(image_path):
         time.sleep(0.5)
