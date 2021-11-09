@@ -24,6 +24,11 @@ pip install -r requirements.txt
 python index.py
 ```
 
+## Usage
+
+Heavily dependent on images. If you want to use this, you most likely will have to swap out scene images with your own screenshots.
+Some hardcoded screen size values that need to be adjusted for your use case.
+
 ## Files
 
 - index.py
