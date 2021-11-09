@@ -6,7 +6,9 @@ When they asked for food and drink we gave them the the finest meat and wine we 
 When they asked money we did not hesitate to share what little we had managed to save over the years.
 
 Despite all of this, they robbed our homes, disgraced our women, and left us for dead.
-We treated them as equals and yet they spat upon our dignity.
+We treated them as equals, took care of them in times of need, and this is how they repay us?
+
+By spitting upon our dignity?
 
 For far too long we have been abused.
 For far too long we have been taken advantage of.
