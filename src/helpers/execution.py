@@ -3,7 +3,7 @@ import time
 from PIL.ImageOps import grayscale
 import pyautogui
 
-last_location = None
+last_location = pyautogui.Point(1300, 500)
 
 
 def locate(image_path: str):
@@ -32,6 +32,8 @@ def guarantee_img_click(image_path: str):
     while location:
         click_point(location)
         location = locate(image_path)
+        # Sleep to deal w. sparkle effect
+        time.sleep(1)
 
 
 def spam_click():
