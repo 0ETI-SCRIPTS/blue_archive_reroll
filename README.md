@@ -2,6 +2,13 @@
 
 Automates the rerolling process on blue archive
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+python index.py
+```
+
 ## Files
 
 - scene.py
@@ -14,4 +21,4 @@ Automates the rerolling process on blue archive
 
 - execution.py
 
-  - Responsible for reliably executing instructions
+  - Responsible for reliably performing instructions
