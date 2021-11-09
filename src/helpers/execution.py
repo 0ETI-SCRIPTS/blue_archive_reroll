@@ -37,7 +37,7 @@ def guarantee_img_click(image_path: str):
 
 
 def spam_click():
-    for i in range(3):
+    for i in range(1):
         click_point(last_location)
         time.sleep(0.3)
 

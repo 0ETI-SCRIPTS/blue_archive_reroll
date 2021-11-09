@@ -36,3 +36,5 @@ def execute_scene(scene: str):
             spam_click_until_image_found(img_path)
 
         guarantee_img_click(img_path)
+
+        time.sleep(0.5)
